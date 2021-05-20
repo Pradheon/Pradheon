@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pradheon
+- 👋 Hi, I’m Joshan
 - 👀 I’m interested in ... 
         Software Engineering,
         making games, websites, and
