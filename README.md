@@ -1,16 +1,5 @@
-- 👋 Hi, I’m Joshan
-- 👀 I’m interested in ... 
-        Software Engineering,
-        making games, websites, and
-        Anime.
-- 🌱 I’m currently learning ...
-        HTML5, CSS, JavaScript, and C.
-- 💞️ I’m looking to collaborate on ...
-        Games,
-        Websites
-- 📫 How to reach me ...
-        Business: pradheate@outlook.com |
-        Personal: pradheon@gmail.com
+- 🌱 Currently focused on learning Kotlin, C++, and Pygame to create games and applications.
+- 💬 For professional inquires, contact me on [LinkedIn](https://www.linkedin.com/in/joshansrai/).
 
 <!---
 Pradheon/Pradheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
