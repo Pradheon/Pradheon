@@ -13,11 +13,12 @@ Leadership, teamwork, problem-solving, and communication skills.
 
 ## Featured
 | `AniRand (for Android)` | `RailgunGirlZ` |
-| ----------- | ----------- |
-| ![AniRand](https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif "AniRand Design Mock-Up") | ![RailgunGirlZ](https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif "RailgunGirlZ Game Screen") |
+| :-: | :-: |
+| <div><a href="https://github.com/Pradheon/AniRand"><img height="relative" alt="AniRand Mock-Up Demo" src="https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img height="relative" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
 
 ## Activity
 - 🌱 Currently focused on learning Swift, C#, C++, Unity, and Unreal Engine to create games and applications.
+- :shipit: Looking for internships.
 
 ## Contact Info
 [Github](https://github.com/Pradheon "Github") |
