@@ -21,9 +21,9 @@ Leadership, teamwork, problem-solving, and communication skills.
 - :shipit: Looking for internships.
 
 ## Contact Info
-[Github](https://github.com/Pradheon "Github") |
-| [LinkedIn](https://www.linkedin.com/in/joshansrai/ "LinkedIn") |
-| [Email](mailto:joshan.s.rai@gmail.com)
+[Github](https://github.com/Pradheon "You're already here silly.") |
+| [LinkedIn](https://www.linkedin.com/in/joshansrai/ "LinkedIn, my MORE professional profile.") |
+| [Email](mailto:joshan.s.rai@gmail.com "Click me to email me.")
 
 <!---
 Pradheon/Pradheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
