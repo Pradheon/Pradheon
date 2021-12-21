@@ -14,7 +14,7 @@ Leadership, teamwork, problem-solving, and communication skills.
 ## Featured
 | `AniRand (for Android)` | `RailgunGirlZ` |
 | ----------- | ----------- |
-| ![AniRand](https://media.discordapp.net/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif "AniRand Design Mock-Up") | ![RailgunGirlZ](https://media.discordapp.net/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif "RailgunGirlZ Game Screen") |
+| ![AniRand](https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif "AniRand Design Mock-Up") | ![RailgunGirlZ](https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif "RailgunGirlZ Game Screen") |
 
 ## Activity
 - 🌱 Currently focused on learning Swift, C#, C++, Unity, and Unreal Engine to create games and applications.
