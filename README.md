@@ -20,7 +20,7 @@ Leadership, teamwork, problem-solving, and communication skills.
 | <div><a href="https://github.com/Pradheon/UnitConverter"><img height="relative" alt="UnitConverter App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/BetterRest"><img height="relative" alt="BetterRest App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> |
 
 ## Activity
-- 🌱 Currently focused on learning Swift, C#, C++, Unity, and Unreal Engine to create games and applications.
+- 🌱 Currently focused on learning Swift, C#, C++, and Unity to create games and applications.
 - :shipit: Looking for internships.
 
 ## Contact Info
