@@ -6,7 +6,7 @@ B.S. Computer Science, Software Engineer, Game Developer, President of Anime Clu
 Leadership, teamwork, problem-solving, and communication skills.
 
 - Always learning new things/ways to tackle new/old challenges; whether, that be a new project, planning events, expanding my skill-set, or trying to find a new anime/game to watch/play.
-- Well versed in Python, C++, and Kotlin; particularly, in building games and apps in a object-orientated environment.
+- Well versed in Python, C++, and Swift; particularly, in building games and apps in a object-orientated environment.
 - Communication skills with calm and inclusive demeanor; including, clear and concise information communication when translating tech to non-tech information and vise-versa.
 - Leadership skills from being Founder/President of the Anime Club, Presdient of the Associated Student Body, and Club Officer (future VP/Pres.) of the Google Developer Student Club at the University of Silicon Valley.
 - Likes anime and video games.
