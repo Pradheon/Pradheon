@@ -15,9 +15,8 @@ Leadership, teamwork, problem-solving, and communication skills.
 | `AniRand (Android)` | `RailgunGirlZ` |
 | :-: | :-: |
 | <div><a href="https://github.com/Pradheon/AniRand"><img height="relative" alt="AniRand Mock-Up Demo" src="https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img height="relative" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
-
+|  |  |
 | `UnitConverter (iOS)` | `BetterRest (iOS)` |
-| :-: | :-: |
 | <div><a href="https://github.com/Pradheon/UnitConverter"><img height="relative" alt="UnitConverter App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/BetterRest"><img height="relative" alt="BetterRest App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> |
 
 ## Activity
