@@ -26,7 +26,7 @@ Leadership, teamwork, problem-solving, and communication skills.
 ## Contact Info
 [Github](https://github.com/Pradheon "You're already here silly.") |
 | [LinkedIn](https://www.linkedin.com/in/joshansrai/ "LinkedIn, my MORE professional profile.") |
-| [Website](https://sites.google.com/view/joshanrai "My alternative until I build my Github Pages site")
+| [Website](https://sites.google.com/view/joshanrai "My alternative until I build my Github Pages site") |
 | [Email](mailto:joshan.s.rai@gmail.com "Click me to email me.")
 
 <!---
