@@ -17,7 +17,7 @@ Leadership, teamwork, problem-solving, and communication skills.
 | <div><a href="https://github.com/Pradheon/AniRand"><img height="relative" alt="AniRand Mock-Up Demo" src="https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img height="relative" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
 |  |  |
 | `Edutainment (iOS)` | `Friends (iOS)` |
-| <div><a href="https://github.com/Pradheon/Edutainment"><img height="relative" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162857325-eda7c2b0-2a99-40ed-bec6-715a17821ec5.mp4"/></a></div> | <div><a href="https://github.com/Pradheon/Friends"><img height="relative" alt="Friends App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> |
+| <div><a href="https://github.com/Pradheon/Edutainment"><img height="relative" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif"/></a></div> | <div><a href="https://github.com/Pradheon/Friends"><img height="relative" alt="Friends App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> |
 
 ## Activity
 - 🌱 Currently focused on learning Swift, C#, C++, and Unity to create games and applications.
@@ -33,5 +33,3 @@ Leadership, teamwork, problem-solving, and communication skills.
 Pradheon/Pradheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![edutainment-demo](https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif)
-
