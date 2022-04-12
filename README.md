@@ -14,7 +14,7 @@ Leadership, teamwork, problem-solving, and communication skills.
 ## Featured
 | `AniRand (Android)` | `RailgunGirlZ (PC)` |
 | :-: | :-: |
-| <div><a href="https://github.com/Pradheon/AniRand"><img width="relative" height="100%" alt="AniRand Mock-Up Demo" src="https://cdn.discordapp.com/attachments/887131148067672075/922754853434978364/ezgif.com-gif-maker.gif?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img width="relative" height="50%" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
+| <div><a href="https://github.com/Pradheon/AniRand"><img width="relative" height="100%" alt="AniRand Mock-Up Demo" src="https://user-images.githubusercontent.com/60300252/162864815-e8001e4f-c5fc-4d2c-856e-114619f34a09.gif"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img width="relative" height="50%" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
 |  |  |
 | `Edutainment (iOS)` | `Friends (iOS)` |
 | <div><a href="https://github.com/Pradheon/Edutainment"><img height="relative" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif"/></a></div> | <div><a href="https://github.com/Pradheon/Friends"><img height="relative" alt="Friends App Demo" src="https://cdn.discordapp.com/attachments/730143569448403076/944329022979055636/Comming_Soon1.png?raw=true"/></a></div> |
