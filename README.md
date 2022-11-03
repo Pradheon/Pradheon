@@ -1,8 +1,8 @@
 # Joshan Rai
-### Software Engineer, Game Developer, & Student at University of Silicon Valley
+### Software Engineer, Web & iOS Developer, IT Tech, & CS Student at University of Silicon Valley
 
 ## About
-B.S. Computer Science, Software Engineer, Game Developer, President of Anime Club and Associated Student Body at the University of Silicon Valley.
+B.S. Computer Science, Software Engineer, Web & iOS Developer, President of Anime Club, Google Developer Student Club (GDSC) and Associated Student Body (ASB) at the University of Silicon Valley (USV).
 Leadership, teamwork, problem-solving, and communication skills.
 
 - Always learning new things/ways to tackle new/old challenges; whether, that be a new project, planning events, expanding my skill-set, or trying to find a new anime/game to watch/play.
