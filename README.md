@@ -6,9 +6,9 @@ B.S. Computer Science, Software Engineer, Web & iOS Developer, President of Anim
 Leadership, teamwork, problem-solving, and communication skills.
 
 - Always learning new things/ways to tackle new/old challenges; whether, that be a new project, planning events, expanding my skill-set, or trying to find a new anime/game to watch/play.
-- Well versed in Python, C++, Swift, HTML, & CSS; particularly, in building applications and frontend/backend websites and apps utilizing OOP princriples.
+- Well versed in Python, C++, Swift, HTML, & CSS; particularly, in building applications and frontend/backend websites and apps utilizing OOP principles.
 - Communication skills with calm and inclusive demeanor; including, clear and concise information communication when translating tech to non-tech information and vise-versa.
-- Leadership skills from being Founder/President of the Anime Club, Presdient of the Associated Student Body, and President of the Google Developer Student Club (GDSC) at the University of Silicon Valley (USV).
+- Leadership skills from being Founder/President of the Anime Club, President of the Associated Student Body, and President of the Google Developer Student Club (GDSC) at the University of Silicon Valley (USV).
 - Loves anime and video games.
 
 ## Featured
