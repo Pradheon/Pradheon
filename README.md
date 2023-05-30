@@ -1,5 +1,5 @@
 # Joshan Rai
-### Software Engineer, Web & iOS Developer, IT Tech, & CS Student at University of Silicon Valley
+### Web Developer, iOS Developer, Software Engineer, IT Technician/Support
 
 ## About
 B.S. Computer Science, Software Engineer, Web & iOS Developer, President of Anime Club, Google Developer Student Club (GDSC) and Associated Student Body (ASB) at the University of Silicon Valley (USV).
@@ -20,8 +20,8 @@ Leadership, teamwork, problem-solving, and communication skills.
 | <div><a href="https://github.com/Pradheon/Edutainment"><img width="50%" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif"/></a></div> | <div><a href="https://github.com/Pradheon/Friends"><img width="100%" alt="Friends App Demo" src="https://repository-images.githubusercontent.com/478243770/e02e78da-e58e-4364-a277-473beba99680"/></a></div> |
 
 ## Activity
-- 🌱 Currently focused on Digital Twinning, Web, & iOS Development.
-- :shipit: Looking for internships.
+- 🌱 Currently focused on Web & iOS Development.
+- :shipit: Looking for Web Development and/or iOS Development jobs.
 
 ## Contact Info
 [Github](https://github.com/Pradheon "You're already here silly.") |
