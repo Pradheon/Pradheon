@@ -12,12 +12,13 @@ Leadership, teamwork, problem-solving, and communication skills.
 - Loves anime and video games.
 
 ## Featured
-| <a href="https://github.com/Pradheon/VR_Project_Teleportation_3DUI"><b>VR Claw Machine Game</b></a> | <a href="https://github.com/Pradheon/RailgunGirlZ"><b>RailgunGirlZ (PC)</b></a> |
+| <a href="https://github.com/Pradheon/Edutainment"><b>Edutainment (iOS)</b></a> | <a href="https://github.com/Pradheon/odin-landing-page"><b>Oding Landing Page</b></a> |
 | :-: | :-: |
-| <div><a href="https://github.com/Pradheon/VR_Project_Teleportation_3DUI"><img width="100%" height="100%" alt="VR Claw Machine Game" src="https://cdn.discordapp.com/attachments/730143569448403076/982191984687071262/vr-cover.png?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img width="100%" height="50%" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
+| <div><a href="https://github.com/Pradheon/Edutainment"><img width="50%" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif"/></a></div> | <div><a href="https://github.com/Pradheon/oding-landing-page"><img width="50%" alt="Odin Landing Page Demo" src="https://user-images.githubusercontent.com/60300252/276790056-42ace802-258f-46fb-aa18-0f7b2bbcc9d3.png"/></a></div> |
 |  |  |
-| <a href="https://github.com/Pradheon/Edutainment"><b>Edutainment (iOS)</b></a> | <a href="https://github.com/Pradheon/Friends"><b>Friends (iOS)</b></a> |
-| <div><a href="https://github.com/Pradheon/Edutainment"><img width="50%" alt="Edutainment App Demo" src="https://user-images.githubusercontent.com/60300252/162859546-9e4436cc-508e-45e4-ac74-a164998f94c9.gif"/></a></div> | <div><a href="https://github.com/Pradheon/Friends"><img width="100%" alt="Friends App Demo" src="https://repository-images.githubusercontent.com/478243770/e02e78da-e58e-4364-a277-473beba99680"/></a></div> |
+| <a href="https://github.com/Pradheon/VR_Project_Teleportation_3DUI"><b>VR Claw Machine Game</b></a> | <a href="https://github.com/Pradheon/RailgunGirlZ"><b>RailgunGirlZ (PC)</b></a> |
+| <div><a href="https://github.com/Pradheon/VR_Project_Teleportation_3DUI"><img width="100%" alt="VR Claw Machine Game" src="https://cdn.discordapp.com/attachments/730143569448403076/982191984687071262/vr-cover.png?raw=true"/></a></div> | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img width="50%" alt="RailgunGirlZ Game Screen" src="https://cdn.discordapp.com/attachments/887131094649020488/922757092232790026/ezgif.com-gif-maker1.gif?raw=true"/></a></div> |
+
 
 ## Activity
 - 🌱 Currently focused on Web & iOS Development.
