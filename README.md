@@ -1,5 +1,5 @@
 # Joshan Rai
-### Web Developer, iOS Developer, Software Engineer, IT Technician/Support
+### Software Engineer, Web Developer, & iOS Developer
 
 ## About
 B.S. Computer Science, Software Engineer, Web & iOS Developer, President of Anime Club, Google Developer Student Club (GDSC) and Associated Student Body (ASB) at the University of Silicon Valley (USV).
