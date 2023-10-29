@@ -27,9 +27,9 @@ Leadership, teamwork, problem-solving, and communication skills.
 ## Contact Info
 [Github](https://github.com/Pradheon "You're already here silly.") |
 | [LinkedIn](https://www.linkedin.com/in/joshansrai/ "LinkedIn, my MORE professional profile.") |
-| [Website](https://sites.google.com/view/pradheon/home "My alternative until I build my Github Pages site.") |
+| [Website](https://pradheon.github.io/ "Website coming soon!") |
 | [Email](mailto:joshan.s.rai@gmail.com "Click me to email me.") |
-| [Book an appointment](https://calendly.com/joshan-rai/30min "Schedule a meeting via Calendly.")
+| [Book an appointment](https://calendar.app.google/iN4GcPapakxXjMUV7 "Schedule a meeting via my Google Calendar.")
 
 <!---
 Pradheon/Pradheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
