@@ -24,7 +24,7 @@ To develop extraordinary products, transcending in all aspects.
 
 | [BATCH FILE MODIFICATION SCRIPTS](https://github.com/Pradheon/bash-scripts) |
 | :---------: |
-| <div><a href=""><img src="https://joshansrai.pages.dev/img/sch.png"/></a></div> |
+| <div><a href=""><img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png"/></a></div> |
 
 | [EDUTAINMENT iOS APP](https://github.com/Pradheon/Edutainment) |
 | :---------: |
