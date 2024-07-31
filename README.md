@@ -20,7 +20,7 @@ To develop extraordinary products, transcending in all aspects.
 ## TOP PICKS
 | [JSK PHOTOGRAPHY WEBSITE](https://jskphotography.com/) |
 | :---------: |
-| <div><a href="https://jskphotography.com/"><img src="https://joshansrai.pages.dev/img/jsk-photography.png"/></a></div> |
+| <div><a href="https://jskphotography.com/"><img src="https://github.com/Pradheon/Pradheon/blob/main/jsk-photography.png?raw=true"/></a></div> |
 
 | [BATCH FILE MODIFICATION SCRIPTS](https://github.com/Pradheon/bash-scripts) |
 | :---------: |
