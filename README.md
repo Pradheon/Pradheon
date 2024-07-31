@@ -18,21 +18,21 @@ To develop extraordinary products, transcending in all aspects.
 ---
 
 ## TOP PICKS
-| [STONE CRAFTER'S WEBSITE](https://stonecrafters.us/) |
+| [JSK PHOTOGRAPHY WEBSITE](https://jskphotography.com/) |
 | :---------: |
-| <div><a href=""><img src="https://joshansrai.pages.dev/img/sch.png"/></a></div> |
+| <div><a href="https://jskphotography.com/"><img src="https://joshansrai.pages.dev/img/jsk-photography.png"/></a></div> |
 
 | [BATCH FILE MODIFICATION SCRIPTS](https://github.com/Pradheon/bash-scripts) |
 | :---------: |
-| <div><a href=""><img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png"/></a></div> |
+| <div><a href="https://github.com/Pradheon/bash-scripts"><img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png"/></a></div> |
 
 | [EDUTAINMENT iOS APP](https://github.com/Pradheon/Edutainment) |
 | :---------: |
-| <a href=""><img src="https://joshansrai.pages.dev/img/edutainment.png"/></a> |
+| <a href="https://github.com/Pradheon/Edutainment"><img src="https://joshansrai.pages.dev/img/edutainment.png"/></a> |
 
 | [RAILGUNGIRLZ](https://github.com/Pradheon/RailgunGirlZ) |
 | :---------: |
-| <div><a href=""><img src="https://joshansrai.pages.dev/img/sch.png"/></a></div> |
+| <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img src="https://github.com/Pradheon/RailgunGirlZ/blob/master/resources/images/screenshots/game-screen-rgz.png?raw=true"/></a></div> |
 
 ---
 
