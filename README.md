@@ -18,19 +18,19 @@ To develop extraordinary products, transcending in all aspects.
 ---
 
 ## TOP PICKS
-| [JSK PHOTOGRAPHY WEBSITE](https://jskphotography.com/) |
+| [JSK Photgraphy Website](https://jskphotography.com/) |
 | :---------: |
 | <div><a href="https://jskphotography.com/"><img src="https://github.com/Pradheon/Pradheon/blob/main/jsk-photography.png?raw=true"/></a></div> |
+
+| [Stone Crafter's & Home Website](https://stonecrafters.us/) |
+| :---------: |
+| <a href="https://stonecrafter.us/"><img src="https://joshansrai.pages.dev/img/sch.png"/></a> |
 
 | [BATCH FILE MODIFICATION SCRIPTS](https://github.com/Pradheon/bash-scripts) |
 | :---------: |
 | <div><a href="https://github.com/Pradheon/bash-scripts"><img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png"/></a></div> |
 
-| [EDUTAINMENT iOS APP](https://github.com/Pradheon/Edutainment) |
-| :---------: |
-| <a href="https://github.com/Pradheon/Edutainment"><img src="https://joshansrai.pages.dev/img/edutainment.png"/></a> |
-
-| [RAILGUNGIRLZ](https://github.com/Pradheon/RailgunGirlZ) |
+| [RailgunGirlZ](https://github.com/Pradheon/RailgunGirlZ) |
 | :---------: |
 | <div><a href="https://github.com/Pradheon/RailgunGirlZ"><img src="https://github.com/Pradheon/RailgunGirlZ/blob/master/resources/images/screenshots/game-screen-rgz.png?raw=true"/></a></div> |
 
