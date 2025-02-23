@@ -26,7 +26,7 @@ To develop extraordinary products, transcending in all aspects.
 | :---------: |
 | <a href="https://stonecrafter.us/"><img src="https://joshansrai.pages.dev/img/sch.png"/></a> |
 
-| [BATCH FILE MODIFICATION SCRIPTS](https://github.com/Pradheon/bash-scripts) |
+| [Batch File Modification Scripts in Bash](https://github.com/Pradheon/bash-scripts) |
 | :---------: |
 | <div><a href="https://github.com/Pradheon/bash-scripts"><img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png"/></a></div> |
 
