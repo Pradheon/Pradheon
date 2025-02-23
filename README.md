@@ -37,6 +37,6 @@ To develop extraordinary products, transcending in all aspects.
 ---
 
 ## CONTACT
-| Email | Website | LinkedIn |
-| :--------- | :--------- | :--------- |
-| [joshan.s.rai@gmail.com](mailto:joshan.s.rai@gmail.com) | [Website](https://joshansrai.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/joshansrai/) |
+| Website | LinkedIn |
+| :--------- | :--------- |
+| [Website](https://joshansrai.pages.dev/) | [LinkedIn](https://www.linkedin.com/in/joshansrai/) |
